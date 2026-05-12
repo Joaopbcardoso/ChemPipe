@@ -9,7 +9,6 @@ import uuid
 
 app = FastAPI(title="ChemPipe API")
 
-# Allow CORS for React frontend
 app.add_middleware(
     CORSMiddleware,
     allow_origins=["*"],
