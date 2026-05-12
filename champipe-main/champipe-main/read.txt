@@ -1,0 +1,6 @@
+Bibliotecas necessarias 
+
+pandas
+sqlite3
+sqlalchemy
+tkinter

@@ -1,0 +1,13 @@
+{
+  "sqltools.connections": [
+    {
+      "name": "ChempipeDB",
+      "driver": "PostgreSQL",
+      "server": "localhost",
+      "port": 5432,
+      "database": "chempipe.db",
+      "username": "lucas",
+      "password": "senai"
+    }
+  ]
+}
